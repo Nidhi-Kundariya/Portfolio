@@ -86,7 +86,7 @@ Jun 2020 – Present
 
 - PHP
 - CakePHP
-- CodeIgniter
+- Node.js
 - Laravel
 - WordPress
 - MySQL
